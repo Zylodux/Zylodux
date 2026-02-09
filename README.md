@@ -35,9 +35,9 @@ I am a developer who specializes in building robust systems using **Python** and
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [İbrahim Terzi](https://www.linkedin.com/in/YOUR_LINK_HERE)
-- **Portfolio:** [zylodux.dev](https://github.com/Terzi-ibrahim)
-- **Email:** [Contact via GitHub](https://github.com/Terzi-ibrahim)
+- **LinkedIn:** [İbrahim Terzi]([https://www.linkedin.com/in/YOUR_LINK_HERE](https://www.linkedin.com/in/ibrahim-terzi-725a672b4/))
+- **Portfolio:** [zylodux.dev](https://github.com/Zylodux)
+- **Email:** [Contact via GitHub]((https://github.com/Zylodux))
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Terzi-ibrahim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
