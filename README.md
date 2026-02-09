@@ -1,34 +1,47 @@
-# ⚡ Zylodux
-### Software Developer | .NET & Python Specialist
+# 🚀 Zylodux | Junior Developer
+### *Building Scalable Logic with C# & Python*
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</div>
 
 ---
 
-> **"Logic tailored, code delivered."** > Turning complex requirements into scalable, clean, and efficient solutions.
+### ⚡ About Me
+I'm a **Junior Developer** focused on the **.NET ecosystem** and **Python automation**. My journey is about turning complex logic into functional applications. I'm currently diving deep into software architectures and backend development.
 
-<br/>
-
-### 🛠 Tech Stack
-- **Languages:** `C#`, `Python`, `SQL`
-- **Frameworks:** `.NET Ecosystem`, `ASP.NET MVC`, `Web API`
-- **Automation:** `phBot Scripting`, `Selenium`, `Task Automation`
-- **Principles:** `SOLID`, `N-Tier Architecture`, `Clean Code`
-
-<br/>
-
-### 📊 Performance Metrics
-![Zylodux Stats](https://github-readme-stats.vercel.app/api?username=Zylodux&show_icons=true&theme=tokyonight&hide_border=true)
-
-<br/>
-
-### 📂 Current Focus
-- 🏗️ Developing enterprise-level backend solutions with **.NET Core**.
-- 🤖 Specialized automation scripts for the **phBot** ecosystem.
-- 📈 Constantly learning software design patterns.
-
-<br/>
-
-### 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/ibrahim-terzi-725a672b4/) • [Email](mailto:senin-epostan@gmail.com) • [GitHub](https://github.com/Zylodux)
+- 🔷 **C# Focus:** Building Windows Forms, MVC web applications, and REST APIs.
+- 🏗️ **Architecture:** Learning and implementing clean code and layered architectures.
+- 🐍 **Python Side:** Scripting for automation and bot development (currently working on **phbot** integrations).
+- 🧵 **The "Zylodux" Way:** Tailoring solutions for every logic problem I face.
 
 ---
-<p align="right"><i>© 2024 Zylodux - Crafted with logic.</i></p>
+
+### 🛠 Learning & Tech Stack
+
+| Area | Technologies | Status |
+| :--- | :--- | :--- |
+| **C# Desktop** | Windows Forms | Active |
+| **Web Dev** | ASP.NET MVC, Web API | Active |
+| **Python** | Automation Scripts, Botting | In Progress 🚧 |
+| **Architecture** | N-Tier, Solid Principles | Learning |
+
+---
+
+### 🧪 Current Lab (WIP)
+- [x] Mastering C# Fundamentals & Forms.
+- [ ] Developing custom Python scripts for **phbot**.
+- [ ] Building a personal MVC project to showcase API integrations.
+- [ ] Exploring software design patterns.
+
+---
+
+### 📫 Let's Connect
+- **LinkedIn:** [İbrahim Terzi](https://www.linkedin.com/in/ibrahim-terzi-725a672b4/)
+- **GitHub:** [Zylodux](https://github.com/Zylodux)
+
+---
+*“Logic tailored, code delivered.” — Zylodux*
