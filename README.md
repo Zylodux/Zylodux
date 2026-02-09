@@ -1,50 +1,43 @@
-# 🚀 Zylodux | Junior Developer
-### *Building Scalable Logic with C# & Python*
+# ⚡ Hello World, I'm İbrahim (Zylodux) 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Zylodux&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-</div>
----
+> **"Logic tailored, code delivered."** — Software is not just about writing code; it's about solving puzzles elegantly.
 
-### ⚡ About Me
-I'm a **Junior Developer** focused on the **.NET ecosystem** and **Python automation**. My journey is about turning complex logic into functional applications. I'm currently diving deep into software architectures and backend development.
+### 🛠 Tech Stack & Tools
 
-- 🔷 **C# Focus:** Building Windows Forms, MVC web applications, and REST APIs.
-- 🏗️ **Architecture:** Learning and implementing clean code and layered architectures.
-- 🐍 **Python Side:** Scripting for automation and bot development (currently working on **phbot** integrations).
-- 🧵 **The "Zylodux" Way:** Tailoring solutions for every logic problem I face.
-
----
-
-### 🛠 Learning & Tech Stack
-
-| Area | Technologies | Status |
+| **Backend** | **Automation & Scripts** | **Database & Tools** |
 | :--- | :--- | :--- |
-| **C# Desktop** | Windows Forms | Active |
-| **Web Dev** | ASP.NET MVC, Web API | Active |
-| **Python** | Automation Scripts, Botting | In Progress 🚧 |
-| **Architecture** | N-Tier, Solid Principles | Learning |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
+| ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) | ![phBot](https://img.shields.io/badge/phBot-Automation-blue?style=flat-square) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square) | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) | ![VS Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) |
 
 ---
 
-### 🧪 Current Lab (WIP)
-- [x] Mastering C# Fundamentals & Forms.
-- [ ] Developing custom Python scripts for **phbot**.
-- [ ] Building a personal MVC project to showcase API integrations.
-- [ ] Exploring software design patterns.
+### 🔍 Current Focus: The "Zylodux" Lab
+- 🏗️ **Architecting:** Building N-Tier (Layered) applications with **.NET Core**.
+- 🤖 **Automation:** Developing specialized Python scripts and API integrations for **phBot** ecosystems.
+- 🌐 **Web:** Crafting RESTful APIs and modern MVC applications.
+- 📈 **Goal:** Transitioning from Junior to Mid-level by mastering **SOLID** principles and Design Patterns.
 
 ---
 
-### 📫 Let's Connect
-- **LinkedIn:** [İbrahim Terzi](https://www.linkedin.com/in/ibrahim-terzi-725a672b4/)
-- **GitHub:** [Zylodux](https://github.com/Zylodux)
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zylodux&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+### 📊 GitHub Activity
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Zylodux&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zylodux&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
-*“Logic tailored, code delivered.” — Zylodux*
+
+### 📫 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/ibrahim-terzi-725a672b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="İbrahim Terzi" height="30" width="40" /></a>
+<a href="mailto:senin-epostan@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+</p>
+
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=001f3f&height=100&section=footer" width="100%"/>
+</p>
