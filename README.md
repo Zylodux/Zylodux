@@ -2,8 +2,7 @@
 ### *Building Scalable Logic with C# & Python*
 
 <div align="center">
- ![unnamed](https://github.com/user-attachments/assets/9ed07815-28c8-4b25-8c31-d0244edc4dbc)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Zylodux&show_icons=true&theme=tokyonight" alt="Zylodux Stats" />
 </div>
 
 ---
