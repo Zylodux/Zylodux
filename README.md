@@ -2,9 +2,11 @@
 ### *Building Scalable Logic with C# & Python*
 
 <div align="center">
-  <img src="https://stardisplay.vercel.app/api?user=Zylodux&theme=tokyonight" alt="Stats" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </div>
-
 ---
 
 ### ⚡ About Me
