@@ -1,14 +1,14 @@
-# 🚀 Zylodux | 
+# 🚀 Zylodux
 ### *Bridging the Gap Between Logic & Automation*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Terzi-ibrahim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Zylodux Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zylodux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Zylodux Stats" />
 </div>
 
 ---
 
 ### ⚡ About Me
-I am a developer who specializes in building robust systems using **Python** and **C#**. Known as **Zylodux**, I focus on high-frequency **Web API Polling**, backend architecture, and seamless data flow management.
+I am a developer who specializes in building robust systems using **Python** and **C#**. As **Zylodux**, I focus on high-frequency **Web API Polling**, backend architecture, and seamless data flow management.
 
 - 🐍 **Python Specialist:** Advanced automation, web scraping, and asynchronous polling scripts.
 - 🔷 **C# / .NET Expert:** Scalable backend solutions, enterprise-level logic, and API development.
@@ -28,19 +28,18 @@ I am a developer who specializes in building robust systems using **Python** and
 ---
 
 ### 🧪 Current Lab (What I'm Working On)
+- [x] Migrating to the **Zylodux** identity.
 - [ ] Optimizing multi-threaded API Polling services for high-load systems.
 - [ ] Integrating C# microservices with Python-based data processors.
-- [ ] Crafting open-source tools under the **Zylodux** banner.
 
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [İbrahim Terzi]([https://www.linkedin.com/in/YOUR_LINK_HERE](https://www.linkedin.com/in/ibrahim-terzi-725a672b4/))
-- **Portfolio:** [zylodux.dev](https://github.com/Zylodux)
-- **Email:** [Contact via GitHub]((https://github.com/Zylodux))
+- **LinkedIn:** [İbrahim Terzi](https://www.linkedin.com/in/ibrahim-terzi-725a672b4/)
+- **GitHub:** [Zylodux](https://github.com/Zylodux)
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Terzi-ibrahim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zylodux&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
