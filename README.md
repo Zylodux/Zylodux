@@ -1,36 +1,39 @@
-# 🚀 Zylodux
-### *Bridging the Gap Between Logic & Automation*
+# 🚀 Zylodux | Junior Developer
+### *Building Scalable Logic with C# & Python*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zylodux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Zylodux Stats" />
+ ![unnamed](https://github.com/user-attachments/assets/9ed07815-28c8-4b25-8c31-d0244edc4dbc)
+
 </div>
 
 ---
 
 ### ⚡ About Me
-I am a developer who specializes in building robust systems using **Python** and **C#**. As **Zylodux**, I focus on high-frequency **Web API Polling**, backend architecture, and seamless data flow management.
+I'm a **Junior Developer** focused on the **.NET ecosystem** and **Python automation**. My journey is about turning complex logic into functional applications. I'm currently diving deep into software architectures and backend development.
 
-- 🐍 **Python Specialist:** Advanced automation, web scraping, and asynchronous polling scripts.
-- 🔷 **C# / .NET Expert:** Scalable backend solutions, enterprise-level logic, and API development.
-- 🧵 **Process Weaver:** I "tailor" code to fit specific architectural needs, ensuring every thread is optimized.
+- 🔷 **C# Focus:** Building Windows Forms, MVC web applications, and REST APIs.
+- 🏗️ **Architecture:** Learning and implementing clean code and layered architectures.
+- 🐍 **Python Side:** Scripting for automation and bot development (currently working on **phbot** integrations).
+- 🧵 **The "Zylodux" Way:** Tailoring solutions for every logic problem I face.
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠 Learning & Tech Stack
 
-| Language / Tool | Focus Area | Experience Level |
+| Area | Technologies | Status |
 | :--- | :--- | :--- |
-| **Python** | API Integration / Scrapy / FastAPI | Advanced |
-| **C# / .NET Core** | Backend Services / Entity Framework | Advanced |
-| **API Polling** | Real-time Data Synchronization | Specialist |
-| **SQL / NoSQL** | Database Management & Optimization | Intermediate |
+| **C# Desktop** | Windows Forms | Active |
+| **Web Dev** | ASP.NET MVC, Web API | Active |
+| **Python** | Automation Scripts, Botting | In Progress 🚧 |
+| **Architecture** | N-Tier, Solid Principles | Learning |
 
 ---
 
-### 🧪 Current Lab (What I'm Working On)
-- [x] Migrating to the **Zylodux** identity.
-- [ ] Optimizing multi-threaded API Polling services for high-load systems.
-- [ ] Integrating C# microservices with Python-based data processors.
+### 🧪 Current Lab (WIP)
+- [x] Mastering C# Fundamentals & Forms.
+- [ ] Developing custom Python scripts for **phbot**.
+- [ ] Building a personal MVC project to showcase API integrations.
+- [ ] Exploring software design patterns.
 
 ---
 
