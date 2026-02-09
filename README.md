@@ -15,7 +15,7 @@ I'm a **Junior Developer** focused on the **.NET ecosystem** and **Python automa
 
 - 🔷 **C# Focus:** Building Windows Forms, MVC web applications, and REST APIs.
 - 🏗️ **Architecture:** Learning and implementing clean code and layered architectures.
-- 🐍 **Python Side:** Scripting for automation and bot development (currently working on **phbot** integrations).
+- 🐍 **Python Side:** Scripting for automation and bot development.
 - 🧵 **The "Zylodux" Way:** Tailoring solutions for every logic problem I face.
 
 ---
