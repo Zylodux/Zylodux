@@ -1,33 +1,33 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=001f3f&height=200&section=header&text=ZYLODUX&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%"/>
-</p>
-
 <div align="center">
-  <h3> ⚡ <kbd>Architecting Logic</kbd> • <kbd>Optimizing Performance</kbd> • <kbd>Breaking Limits</kbd> ⚡ </h3>
   
-  <img src="https://img.shields.io/badge/Status-Developing_Scalable_Systems-red?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/Focus-.NET_&_Automation-blue?style=for-the-badge&logo=micro-soft" />
+# ⚡ ZYLODUX ⚡
+`Logic Tailored • Code Delivered`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=header&text=Junior%20Software%20Developer&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+---
+
+### 🛠️ Core Stack
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+---
+
+### 💻 Current Lab
+**`.NET Ecosystem`** • Layered Architecture (N-Tier) & Web API  
+**`Automation`** • High-Performance Python scripts for **phBot** **`Database`** • Relational Database Management & SQL Optimization
+
+---
+
+### 📊 Vital Signs
+<img src="https://github-readme-stats.vercel.app/api?username=Zylodux&show_icons=true&theme=blood&hide_border=true&count_private=true" width="400" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zylodux&theme=blood&hide_border=true" width="400" />
+
+---
+
+### 📫 Transmission
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-terzi-725a672b4/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:senin-epostan@gmail.com)
+
 </div>
-
----
-
-### 🥷 The Developer Behind the Screen
-> **`I turn complex problems into binary solutions.`** > Junior Developer specializing in the **.NET Ecosystem** and **Advanced Python Automation**. I don't just write code; I build robust architectures that last.
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zylodux&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" align="right" width="350px" />
-
-### 🛠️ Core Arsenal
-- **C# & .NET Core:** Professional-grade backends and N-Tier architecture.
-- **Python Automation:** High-performance scripts and API integrations for **phBot**.
-- **Data Mastery:** Complex queries and database management with SQL Server.
-- **Frontend Hybrid:** Crafting clean, functional MVC interfaces.
-
----
-
-### 📂 Active Terminal [Current Projects]
-```csharp
-public class ZyloduxLab {
-    public string CurrentFocus = "Mastering Clean Architecture & SOLID";
-    public string ActiveBot   = "Next-Gen Python Automation for phBot";
-    public string Goal        = "Breaking the Junior ceiling into Mid-Level Seniority";
-}
