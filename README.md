@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://zyloduxblog.com.tr"><img src="https://img.shields.io/badge/Portfolio%20%26%20Blog-312e81?style=for-the-badge&logo=hashnode&logoColor=white" alt="Portfolio and Blog"></a>
+  <a href="https://zyloduxblog.site"><img src="https://img.shields.io/badge/Portfolio%20%26%20Blog-312e81?style=for-the-badge&logo=hashnode&logoColor=white" alt="Portfolio and Blog"></a>
   <a href="https://www.linkedin.com/in/ibrahim-terzi-725a672b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
