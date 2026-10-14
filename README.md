@@ -27,7 +27,7 @@ public class Developer
     public string Name       => "İbrahim Terzi";
     public string Alias      => "Zylodux";
     public string Role       => "Junior .NET Developer";
-    public string Location   => "Trabzon, Türkiye";
+    public string Location   => "İstanbul, Türkiye";
 
     public string[] Focus    => new[] { "Backend Services", "Clean Architecture", "Business Logic Automation" };
     public string[] Building => new[] { "Windows Forms", "ASP.NET MVC", "REST APIs" };
